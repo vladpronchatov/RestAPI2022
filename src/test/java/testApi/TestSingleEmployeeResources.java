@@ -7,11 +7,11 @@ public class TestSingleEmployeeResources extends SingleEmployeeResources {
 
     @Test
     public void singleValidEmployeeCall(){
-        getValidSingleEmployeeResources();
+        callSingleEmployeeResourcesSuccessStatus();
     }
 
     @Test
     public void singleInValidEmployeeCall(){
-        getInValidSingleEmployeeResources();
+        callSingleEmployeeResourcesFailStatus();
     }
 }
