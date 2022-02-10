@@ -1,2 +1,4 @@
-/Users/mrahman/develop/aint/session/jan2021dev/microservices/RestAPI-November2021/src/main/java/employee/resources/SingleEmployeeResources.java
-/Users/mrahman/develop/aint/session/jan2021dev/microservices/RestAPI-November2021/src/main/java/employee/resources/AllEmployeeResources.java
+/Users/vlad/RestAPI/SdetNovember2021RestAPI/src/main/java/step/definitions/SingleEmployeeInValidCallStepsDefinition.java
+/Users/vlad/RestAPI/SdetNovember2021RestAPI/src/main/java/step/definitions/SingleEmployeeValidCallStepsDefinition.java
+/Users/vlad/RestAPI/SdetNovember2021RestAPI/src/main/java/employee/resources/SingleEmployeeResources.java
+/Users/vlad/RestAPI/SdetNovember2021RestAPI/src/main/java/employee/resources/AllEmployeeResources.java
